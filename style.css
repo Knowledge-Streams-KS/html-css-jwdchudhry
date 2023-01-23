@@ -163,3 +163,14 @@ background: #3a3d40;
 .fa-at:before {
     content: "\f1fa";
 } 
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: #303841;
+    border-top: 4px solid #be3144;
+}
+footer > p {
+    margin: 2rem;
+}
